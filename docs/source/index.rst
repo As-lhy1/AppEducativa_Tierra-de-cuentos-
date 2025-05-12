@@ -12,6 +12,6 @@ Contents
 --------
 
 .. toctree::
-instalacion.rst
+introduccion.rst
 instalacion.rst
 uso.rst
