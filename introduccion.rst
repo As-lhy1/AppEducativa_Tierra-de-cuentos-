@@ -1,3 +1,6 @@
+Introducción
+=============
+
 El videojuego educativo se llama “Tierra de cuentos” diseñado para estudiantes de segundo grado
 que comprende las edades entre 7 a 9 años, contextualizado en el contenido de textos narrativos-el cuento; el género de esta app es de aventura.
 
