@@ -6,7 +6,7 @@ la funcionabilidad.
 
 .. Nota::
 
-  :Este proyecto está en desarrollo activo.Contenidos
+  :Este proyecto está en desarrollo.
 
 Contents
 --------
