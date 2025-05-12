@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Introduccion
+   Instalación 
+   Uso
