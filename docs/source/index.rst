@@ -1,17 +1,12 @@
-Welcome to Lumache's documentation!
+Bienvenidos a la documentación de la app educativa Tierra de cuentos 
 ===================================
+Con esta docmentación podrás enterarte de que trata este proyeto aquien va diriguido, que temas aborda, 
+de igual manera como poder acceder a este mediante el documento de instalación y de la misma manera 
+la funcionabilidad.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. Nota::
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+  :Este proyecto está en desarrollo activo.Contenidos
 
 Contents
 --------
