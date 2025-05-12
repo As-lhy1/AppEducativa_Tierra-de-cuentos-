@@ -13,6 +13,6 @@ Contents
 
 .. toctree::
 
-  instroduccion
+  introduccion
   instalacion
   uso
