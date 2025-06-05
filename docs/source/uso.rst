@@ -31,6 +31,6 @@ Instrucciones generales de uso
 
 Recomendaciones
 ----------------
-- Supervisar el uso en dispositivos móviles para asegurar que se mantenga el enfoque educativo.
+- Supervisar el uso en la PC para asegurar que se mantenga el enfoque educativo.
 
 
