@@ -18,8 +18,8 @@ Pasos de instalación
 
 **En dispositivos móviles (Android):**
 1. Ingrese al documento en línea 
-2. Descarguelo
-3. Busque el documento que dice aplicación el que tiene el logo de la app
+2. A continuación, proceda a descargar el archivo.
+3. Busque el documento que dice aplicación el que tiene el logo de la app.
 4. Una vez completada la descarga, abra la aplicación y listo ya podrá utilizarla.
 
 Notas adicionales
