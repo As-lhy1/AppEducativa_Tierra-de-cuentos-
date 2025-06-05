@@ -18,14 +18,14 @@ La aplicación cuenta con las siguientes secciones:
 
 3. **Retroalimentación interactiva**  
    - Si reponde de manera correcta se le envia un mensaje felicitandolo.
-   - Si la respuesta incorrectas muestran una corrección mencinandole en que esta mal y de igual manera motivando a continuar con  su aprendizaje.
+   - Si la respuesta incorrectas muestran una corrección mencinandole que su respuesta es incorrecta y de igual manera motivando a continuar con  su aprendizaje.
 
 4. **Créditos**  
    Sección donde se reconoce a los creadores del proyecto.
 
 Instrucciones generales de uso
 -------------------------------
-- Use  el dedo (en pantalla táctil) para seleccionar las respuestas.
+- Use  el cursos de su PC para selecionar cosas y el teclado para que el personaje principal pueda moverse (espacio: brinco, flechas: para moverse de izquierda a derecha)
 - Los estudiantes pueden avanzar a su ritmo.
 - Se recomienda acompañamiento docente o familiar para reforzar las actividades.
 
