@@ -1,7 +1,7 @@
 Instalación de la aplicación educativa Tierra de Cuentos
 =========================================================
 
-Tierra de Cuentos está diseñada para ser utilizada en dispositivos móviles Android. A continuación, se detallan los pasos para su instalación:
+Tierra de Cuentos está diseñada para ser utilizada en la PC. A continuación, se detallan los pasos para su instalación:
 
 Requisitos del sistema
 -----------------------
