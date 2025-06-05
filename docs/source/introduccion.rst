@@ -10,4 +10,3 @@ Mecánica del juego:
 -	En cada nivel, el protagonista se encuentra con personajes no jugables que harán que pasar el nivel y sus activades sea complicado.
 -	Los retos incluyen actividades como: falso/verdadero, complete, emparejar, y selección única – múltiple; en la que avanza las activades se vuelven más complicadas.
 -	Si el jugador resuelve correctamente el nivel, ganará puntos y avanzará al siguiente nivel.
--	Si el jugador contesta incorrectamente el reto, perderá puntos y tendrá que volver a intentarlo.
